@@ -33,16 +33,6 @@ li:hover {
     border-radius: 5px;
     box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
-/* li:hover {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    background-color: #A9C6FF;
-    color: white;
-    border-radius: 5px;
-    padding: 5px 10px;
-    cursor: pointer;
-    transform: scale(1.05);
-    transition: transform 0.2s;
-} */
 
 a {
     text-decoration: none;
